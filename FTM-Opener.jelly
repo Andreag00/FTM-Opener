@@ -1,0 +1,4 @@
+import Shortcuts
+#Color: green, #Icon: feed
+
+openApp(id: "com.apple.FTMInternal")
